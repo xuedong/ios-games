@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		7F9B7D72204F4DEF00DE3038 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9B7D71204F4DEF00DE3038 /* AppDelegate.swift */; };
-		7F9B7D74204F4DEF00DE3038 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7F9B7D73204F4DEF00DE3038 /* GameScene.sks */; };
 		7F9B7D76204F4DEF00DE3038 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7F9B7D75204F4DEF00DE3038 /* Actions.sks */; };
 		7F9B7D78204F4DEF00DE3038 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9B7D77204F4DEF00DE3038 /* GameScene.swift */; };
 		7F9B7D7A204F4DEF00DE3038 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9B7D79204F4DEF00DE3038 /* GameViewController.swift */; };
@@ -39,7 +38,6 @@
 /* Begin PBXFileReference section */
 		7F9B7D6E204F4DEF00DE3038 /* SuperSpaceMan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperSpaceMan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F9B7D71204F4DEF00DE3038 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7F9B7D73204F4DEF00DE3038 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		7F9B7D75204F4DEF00DE3038 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		7F9B7D77204F4DEF00DE3038 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		7F9B7D79204F4DEF00DE3038 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
@@ -104,7 +102,6 @@
 			isa = PBXGroup;
 			children = (
 				7F9B7D71204F4DEF00DE3038 /* AppDelegate.swift */,
-				7F9B7D73204F4DEF00DE3038 /* GameScene.sks */,
 				7F9B7D75204F4DEF00DE3038 /* Actions.sks */,
 				7F9B7D77204F4DEF00DE3038 /* GameScene.swift */,
 				7F9B7D79204F4DEF00DE3038 /* GameViewController.swift */,
@@ -242,7 +239,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F9B7D7D204F4DEF00DE3038 /* Main.storyboard in Resources */,
-				7F9B7D74204F4DEF00DE3038 /* GameScene.sks in Resources */,
 				7F9B7D7F204F4DEF00DE3038 /* Assets.xcassets in Resources */,
 				7F9B7D82204F4DEF00DE3038 /* LaunchScreen.storyboard in Resources */,
 				7F9B7D76204F4DEF00DE3038 /* Actions.sks in Resources */,
