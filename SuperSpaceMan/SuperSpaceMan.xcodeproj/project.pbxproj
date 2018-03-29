@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F086F7A206DA42D005473A3 /* sprites.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 7F086F79206DA42D005473A3 /* sprites.atlas */; };
 		7F9B7D72204F4DEF00DE3038 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9B7D71204F4DEF00DE3038 /* AppDelegate.swift */; };
 		7F9B7D76204F4DEF00DE3038 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7F9B7D75204F4DEF00DE3038 /* Actions.sks */; };
 		7F9B7D78204F4DEF00DE3038 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9B7D77204F4DEF00DE3038 /* GameScene.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7F086F79206DA42D005473A3 /* sprites.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = sprites.atlas; sourceTree = "<group>"; };
 		7F9B7D6E204F4DEF00DE3038 /* SuperSpaceMan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperSpaceMan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F9B7D71204F4DEF00DE3038 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7F9B7D75204F4DEF00DE3038 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		7F9B7D70204F4DEF00DE3038 /* SuperSpaceMan */ = {
 			isa = PBXGroup;
 			children = (
+				7F086F79206DA42D005473A3 /* sprites.atlas */,
 				7F9B7D71204F4DEF00DE3038 /* AppDelegate.swift */,
 				7F9B7D75204F4DEF00DE3038 /* Actions.sks */,
 				7F9B7D77204F4DEF00DE3038 /* GameScene.swift */,
@@ -238,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F086F7A206DA42D005473A3 /* sprites.atlas in Resources */,
 				7F9B7D7D204F4DEF00DE3038 /* Main.storyboard in Resources */,
 				7F9B7D7F204F4DEF00DE3038 /* Assets.xcassets in Resources */,
 				7F9B7D82204F4DEF00DE3038 /* LaunchScreen.storyboard in Resources */,
